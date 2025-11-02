@@ -264,7 +264,7 @@ export default function WeatherApp() {
       >
         {/* Header */}
         <View className="flex flex-row justify-between items-center px-6 pt-12 pb-8">
-          <View>
+          <View className='justify-center flex gap-4'>
             <Text className="text-white text-sm font-medium opacity-80">Hoje</Text>
             <Text className="text-white text-2xl font-semibold">
               {locationName}

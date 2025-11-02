@@ -2,7 +2,10 @@
 
 # 🌤️ Weather App
 
-<img src="images/Home_Page.jpg" alt="Weather App Preview" width="300" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+<div style="display: flex; justify-content: center; gap: 2rem;">
+<img src="images/HomePage.jpg" alt="Weather App Preview" width="300" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+<img src="images/WeatherPage.jpg" alt="Weather App Preview" width="300" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+</div>
 
 *A beautiful, modern weather application built with React Native and Expo*
 
